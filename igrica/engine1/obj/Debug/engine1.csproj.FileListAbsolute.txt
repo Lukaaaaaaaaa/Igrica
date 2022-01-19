@@ -1,0 +1,6 @@
+C:\Users\Luka i Timotej\source\repos\igrica\engine1\bin\Debug\engine1.dll
+C:\Users\Luka i Timotej\source\repos\igrica\engine1\bin\Debug\engine1.pdb
+C:\Users\Luka i Timotej\source\repos\igrica\engine1\obj\Debug\engine1.csprojAssemblyReference.cache
+C:\Users\Luka i Timotej\source\repos\igrica\engine1\obj\Debug\engine1.csproj.CoreCompileInputs.cache
+C:\Users\Luka i Timotej\source\repos\igrica\engine1\obj\Debug\engine1.dll
+C:\Users\Luka i Timotej\source\repos\igrica\engine1\obj\Debug\engine1.pdb
